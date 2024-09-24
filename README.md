@@ -5,7 +5,6 @@ Implemented a Mini-LISP interpreter in Python, supporting basic syntax, function
 Python、ply、compiler
 
 ### 執行方法
-under the folder
 ```shell
 python ./yacc.py input_filename
 ```
