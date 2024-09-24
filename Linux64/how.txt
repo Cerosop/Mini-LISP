@@ -1,0 +1,4 @@
+ubuntu
+cd /mnt/c/Users/hsu/Desktop/3u/compiler/Compiler\ Final\ Project/Linux64
+
+./smli 01_1.lsp
